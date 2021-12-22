@@ -2,4 +2,4 @@
 
 ---
 
-[National Cyber and Information Security Agency](https://www.nukib.cz/en/) (NCISA) of the Czech Republic is the central administrative body for cyber security, including the protection of classified information in information and communication systems and cryptographic protection.
+[National Cyber and Information Security Agency](https://www.nukib.cz/en/) of the Czech Republic is the central administrative body for cyber security, including the protection of classified information in information and communication systems and cryptographic protection.
